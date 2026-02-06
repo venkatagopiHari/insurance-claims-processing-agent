@@ -29,3 +29,8 @@ Build a lightweight agent to process FNOL documents:
 
 ## Notes
 This is a simplified rule-based implementation focusing on clarity and logic.
+## Assumptions
+- This is a lightweight rule-based implementation.
+- Keyword matching is used for field detection.
+- Designed for clarity and demonstration purposes.
+
